@@ -1,5 +1,7 @@
-# QUEM SOMOS?
-
+<div align=center>
+  
+# <img src="https://readme-typing-svg.demolab.com/?lines=Quem%20somos?&center=true&font=Fira%20Code&width=700&height=45&color=a87aff&pause=300&size=22" /></a>
+  </h3>
 
   
   ![jiks](https://github.com/user-attachments/assets/70610c43-ab5b-4b19-a92a-ab9a17720d05)
@@ -49,3 +51,4 @@ Somos um estúdio indie iniciando na carreira de desenvolvedores de jogos. Apesa
 ### Função(ões): Programador.
 
 "Meu nome é Kael Freitas, tenho 18 anos e esse é o meu primeiro projeto desenvolvendo um jogo. Estou cursando Ciências da Computação na UFABC e tenho experiência principalmente com desenvolvimento back-end. Estou tentando expandir minha proficiência na área e ajudar no máximo de áreas possível e aprender com meus companheiros desenvolvedores na JIKS."
+</div>
