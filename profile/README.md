@@ -20,7 +20,7 @@ Somos um estúdio indie iniciando na carreira de desenvolvedores de jogos. Apesa
 
 ### Função(ões): Fundador; Game Designer; Artista 2D; Programador.
 
-"Me chamo João Lucas, tenho apenas 19 anos e estou no início de minha carreira como Desenvolvedor de Jogos juntamente com essa equipe maravilhosa. Produzo jogos pelas engines do RPG Maker MV e da GameMaker. No momento, faço exclusivamente artes em pixel usando o PixelStudio. Estou cursando Design na Unifor, utilizo um pouco do Photoshop e Illustrator para criação de Designs e algumas artes para capas de jogos ou apenas para aprendizado. Pretendo ser altamente prestativo e entregar o melhor conteúdo para nossos consumidores."
+"Me chamo João Lucas, tenho apenas 20 anos e estou no início de minha carreira como Desenvolvedor de Jogos juntamente com essa equipe maravilhosa. Produzo jogos pelas engines do RPG Maker MV e da GameMaker. No momento, faço exclusivamente artes em pixel usando o PixelStudio. Estou cursando Design na Unifor, utilizo um pouco do Photoshop e Illustrator para criação de Designs e algumas artes para capas de jogos ou apenas para aprendizado. Pretendo ser altamente prestativo e entregar o melhor conteúdo para nossos consumidores."
 
 
 
